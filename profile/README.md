@@ -19,4 +19,4 @@ This GitHub organization houses modular repositories that support ongoing projec
 
 ## Collaborate With Us
 
-We are always excited to collaborate across disciplines—from control theory to hardware prototyping to applied AI. If you're interested in contributing or joining the lab, feel free to [reach out](mailto:email@example.com)!
+We are always excited to collaborate across disciplines—from control theory to hardware prototyping to applied AI. If you're interested in contributing or joining the lab, feel free to [reach out to Professor Helbling](mailto:farrell@cornell.edu) or any of the researchers!
