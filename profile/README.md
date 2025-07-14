@@ -15,7 +15,7 @@ Our goal is to make these systems truly **autonomous**, despite the **severe wei
 ## What You'll Find Here:
 
 This GitHub organization houses modular repositories that support ongoing projects in the lab. Repositories are organized by functionality to keep things lightweight and reusable:
-- [repo example 1](https://github.com/Helbling-Lab): An example of a repository
+- [ActuatorAnalysis](https://github.com/Helbling-Lab/ActuatorAnalysis): A MatLab script useful for analyzing micro-movements in millimeter-scale actuators.
 
 ## Collaborate With Us
 
